@@ -1,12 +1,7 @@
-= Vert.x-Demo
-
-This is a code-along for the Julien Ponge's tutorial: [Modern Reactive Java With Vert.x](https://www.youtube
-.com/watch?v=VQpF6oTCxGI).
-
-
+= Vert.x Demo
 image:https://img.shields.io/badge/vert.x-4.4.3-purple.svg[link="https://vertx.io"]
 
-This application was generated using http://start.vertx.io
+This is a code-along for the Julien Ponge's tutorial: https://www.youtube.com/watch?v=VQpF6oTCxGI[Modern Reactive Java With Vert.x].
 
 == Building
 
@@ -24,6 +19,10 @@ To run your application:
 ```
 ./mvnw clean compile exec:java
 ```
+
+== System Design
+
+image::images/image-2023-06-14-19-04-11-837.png[]
 
 == Help
 
