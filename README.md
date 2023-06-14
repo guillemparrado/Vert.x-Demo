@@ -1,2 +1,3 @@
 # Vert.x-Demo
-Codealong for the Julien Ponge's tutorial: [Modern Reactive Java With Vert.x](https://www.youtube.com/watch?v=VQpF6oTCxGI)
+
+Code-Along for the Julien Ponge's Tutorial: [Modern Reactive Java With Vert.x](https://www.youtube.com/watch?v=VQpF6oTCxGI).
